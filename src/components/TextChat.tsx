@@ -410,7 +410,7 @@ const TextChat: React.FC = () => {
     if (fileInputRef.current) fileInputRef.current.value = '';
   };
 
-  const handleQuizStart = () => sendMessage("Lance une session de quiz interactif. Pose-moi une question de cours pour me tester (collez-moi).");
+  const handleQuizStart = () => sendMessage("Lance une session de quiz interactif. Pose-moi une question de cours pour me tester.");
   //04/12/2025 19:12:14 const handleWhoAmI = () => sendMessage("Qui êtes-vous ?");
 
   const sendMessage = async (text: string) => {
