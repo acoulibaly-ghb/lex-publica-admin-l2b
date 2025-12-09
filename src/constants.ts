@@ -439,7 +439,9 @@ Définition : Un service public à caractère administratif (SPA) est un service
 
 Définition : Un service public à caractère industriel et commercial (SPIC) est un service public qui, par son objet, l’origine de ses ressources et les modalités de son fonctionnement ressemble à une entreprise privée.
 
- Le juge a qualifié de SPIC :
+Les deux définitions qui précèdent (SPA et SPIC) sont basées sur l’arrêt Conseil d’État, Assemblée, 16 novembre 1956, Union syndicale des industries aéronautiques(arrêt connu sous l’appellation familière « arrêt USIA »). 
+
+Le juge a qualifié de SPIC :
 * le service public de la distribution de l’eau – Tribunal des conflits, 21 mars 2005, Mme Alberti-Scott ;
 * l'exploitation des pistes de ski, incluant notamment leur entretien et leur sécurité – Tribunal des conflits, 19 février 2009, Beaufils ;
 * le service d’enlèvement des ordures ménagères lorsqu’une commune décide de le financer par une redevance pour service rendu, dont l’institution entraîne la suppression de la taxe d’enlèvement des ordures ménagères – Conseil d’État, Section, Avis, 10 avril 1992, SARL Hofmiller.
