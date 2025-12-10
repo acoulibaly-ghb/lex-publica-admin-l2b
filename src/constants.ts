@@ -178,7 +178,10 @@ Une personne privée gère une activité d'intérêt général, mais avec l’ha
 L’habilitation peut prendre la forme d’une autorisation unilatérale ou d’un contrat.
  Si l’habilitation prend la forme d’un contrat, celui-ci est 
 * soit un contrat de concession de service public (ou un contrat de délégation de service public – DSP) 
-* soit un marché de service public. 
+* soit un marché de service public.
+
+Attention : une activité peut avoir un lien avec une personne publique sans être gérée par elle. La personne publique peut se contenter de la contrôler: lien indirect entre l'activité et la personne publique.
+Il serait donc fauax de dire : Une activité ne peut être qualifiée d’activité de service public, selon les critères jurisprudentiels, si elle n’est pas gérée par une personne publique.
 
 ***
 
